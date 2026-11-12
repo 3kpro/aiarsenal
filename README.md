@@ -1,3 +1,7 @@
+> **Source and attribution:** This repository is a personal reference copy of [AI Engineering Hub by patchy631](https://github.com/patchy631/ai-engineering-hub), not an original 3KPRO-authored collection. The tutorials, project examples, promotional assets, and much of the documentation originate from that upstream project. See its [MIT license](LICENSE) and upstream repository for authorship and current updates.
+
+---
+
 <p align="center">
   <a href="https://trendshift.io/repositories/12800">
     <img src="assets/TRENDING-BADGE.png" alt="Trending Badge" style="width: 250px; height: 55px;" width="250" height="55"/>
