@@ -1,20 +1,11 @@
-> **Source and attribution:** This repository is a personal reference copy of [AI Engineering Hub by patchy631](https://github.com/patchy631/ai-engineering-hub), not an original 3KPRO-authored collection. The tutorials, project examples, promotional assets, and much of the documentation originate from that upstream project. See its [MIT license](LICENSE) and upstream repository for authorship and current updates.
+# AI Engineering Hub · Reference Copy
+
+> **External reference material, not an original 3KPRO portfolio project.** This repository is a personal reference copy of [AI Engineering Hub by patchy631](https://github.com/patchy631/ai-engineering-hub). The tutorials, examples, assets, and most documentation are authored upstream. For current releases and contributions, use the upstream repository. Original license terms remain in [LICENSE](LICENSE).
+
+**Why it's here:** To study and experiment with AI engineering examples. It should not be interpreted as a collection of applications developed or maintained by 3KPRO.
 
 ---
 
-<p align="center">
-  <a href="https://trendshift.io/repositories/12800">
-    <img src="assets/TRENDING-BADGE.png" alt="Trending Badge" style="width: 250px; height: 55px;" width="250" height="55"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="assets/ai-eng-hub.gif" alt="AI Engineering Hub Banner">
-</p>
-
----
-
-# AI Engineering Hub 🚀
 
 Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI!
 
